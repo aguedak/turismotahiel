@@ -1,0 +1,30 @@
+🔧 Git
+Es un sistema de control de versiones.
+
+Se usa para llevar un registro de los cambios en el código.
+
+Te permite trabajar de forma colaborativa sin sobrescribir el trabajo de otros.
+
+Funciona localmente en tu computadora (no necesitas internet para usarlo).
+
+Algunos comandos comunes: git init, git add, git commit, git push, git pull.
+
+📌 Piensa en Git como una herramienta para gestionar el historial de tu proyecto.
+
+☁️ GitHub
+Es una plataforma online para alojar proyectos que usan Git.
+
+Permite guardar tu código en la nube.
+
+Facilita la colaboración entre programadores.
+
+Ofrece funciones adicionales como pull requests, issues, GitHub Actions, etc.
+
+Para usar GitHub, necesitas una cuenta en github.com.
+
+📌 Piensa en GitHub como una red social + nube para proyectos que usan Git.
+
+📌 Resumen con analogía:
+Git es como el motor de un coche.
+
+GitHub es como un garaje donde puedes guardar ese coche, compartirlo y trabajar en él con otras personas.
